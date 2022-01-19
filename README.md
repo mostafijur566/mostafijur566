@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mostafijur566
-- 👀 I’m interested in java
-- 🌱 I’m currently learning android studio
+- 👀 I’m interested in flutter
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me - knock me on Facebook, https://www.facebook.com/wolverine056
 
 <!---
