@@ -43,7 +43,7 @@
 | <a href="https://github.com/mostafijur566"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur566&layout=compact&theme=tokyonight&hide_border=true" /></a>  | 
 
 <br />
-<a href="https://github.com/mostafijur566"><img alt="Md.Hamid Hosen's Top Languages" src="https://camo.githubusercontent.com/96951ceb22e07a2f236099ebbb0589e03561c8b1549378e198e046e9c7bcf39e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68616d6964686f73656e3432266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;"></a>
+<a href="https://github.com/mostafijur566"><a href="https://github.com/mostafijur566"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mostafijur566&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Mostafijur's github stats" /></a>
 
 <br />
 
