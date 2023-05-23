@@ -1,6 +1,6 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
-<h1 align="center"> Hello World, Alex this side! 👋</h1>
+<h1 align="center"> Hello World, Mostafijur this side! 👋</h1>
 
 <h2 align="center">EAT | CODE | SLEEP < repeat </h2>
 
@@ -39,7 +39,7 @@
 | <a href="https://github.com/mostafijur566"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafijur566&layout=compact&theme=tokyonight&hide_border=true" /></a>  | 
 
 <br />
-<a href="https://github.com/mostafijur566"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mostafijur566&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="AlexPy's github stats" /></a>
+<a href="https://github.com/mostafijur566"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mostafijur566&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Mostafijur's github stats" /></a>
 
 <br />
 
