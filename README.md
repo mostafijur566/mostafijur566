@@ -4,7 +4,7 @@
 
 <h2 align="center">EAT | CODE | SLEEP < repeat </h2>
 
-- 💪🏼 I specialize in building projects using the Python-Django and Dart-Flutter stack. My expertise lies in backend development.
+- 💪🏼 I specialize in building projects using the Python-Django and Dart-Flutter stack. My expertise lies in Flutter app development.
 - 📚 While API endpoints might not be directly visible to users, I believe that a seamless and intuitive frontend is crucial. Therefore, I am dedicated to learning the Dart-Flutter stack to enhance the user experience.
 - 🤝🏼 A key objective for me in 2023 is to actively contribute to Open Source projects. By now, you may have already noticed my contributions. If not, rest assured that I am actively working towards achieving this goal.
 - 📬 Feel free to get in touch with me by <a href="mailto:mostafijur1812@gmail.com">Let's get in touch!</a>
